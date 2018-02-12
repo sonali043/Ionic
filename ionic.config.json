@@ -1,0 +1,8 @@
+{
+  "name": "Isu_route66",
+  "app_id": "a5b8ff76",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
